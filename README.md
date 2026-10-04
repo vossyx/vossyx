@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://vossyx.me"><img src="https://img.shields.io/badge/website-vossyx.me-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=vossyx&style=for-the-badge&color=000000&label=views" />
+  <img src="https://gh.vossyx.me/views" alt="views" />
 </p>
 
 ---
